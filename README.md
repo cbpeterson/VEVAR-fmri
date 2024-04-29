@@ -18,7 +18,7 @@ The VEVAR algorithm is implemented in Python and is designed for analyzing brain
 - `Demo.ipynb`: A demonstration notebook for running the VEVAR algorithm using simulated data.
 - `Demo.html`: HTML version of the Demo notebook.
 - `Network_plot.R`: R script for generating inferred network plots.
-- `ROI_names.mat`: Example file containing ROI names used in the plots.
+- `ROI_names.mat`: Example ROI names used in the plots.
 
 ## Usage
 
