@@ -2,7 +2,7 @@
 
 This repository contains the code for the VEVAR (Bayesian Varying-Effects Vector Autoregressive) algorithm as described in the manuscript:
 
-**"Bayesian Varying-Effects Vector Autoregressive Models for Inference of Brain Connectivity Networks and Covariate Effects in Pediatric Traumatic Brain Injury"**
+**"Bayesian Varying-Effects Vector Autoregressive Models for Inference of Brain Connectivity Networks and Covariate Effects in Pediatric Traumatic Brain Injury."**
 
 Authors: Yangfan Ren, Nathan Osborne, Christine B. Peterson, Dana M. DeMaster, Linda Ewing-Cobbs, and Marina Vannucci
 
