@@ -1,5 +1,9 @@
 # VEVAR
 
+## Code authors
+
+Yangfan Ren and Nathan Osborne
+
 This repository contains the code for the VEVAR (Bayesian Varying-Effects Vector Autoregressive) algorithm as described in the manuscript accepted for publication in Human Brain Mapping:
 
 **"Bayesian Varying-Effects Vector Autoregressive Models for Inference of Brain Connectivity Networks and Covariate Effects in Pediatric Traumatic Brain Injury."**
