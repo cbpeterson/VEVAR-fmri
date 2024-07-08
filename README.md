@@ -4,6 +4,8 @@
 
 Yangfan Ren and Nathan Osborne
 
+## Overview
+
 This repository contains the code for the VEVAR (Bayesian Varying-Effects Vector Autoregressive) algorithm as described in the manuscript accepted for publication in Human Brain Mapping:
 
 **"Bayesian Varying-Effects Vector Autoregressive Models for Inference of Brain Connectivity Networks and Covariate Effects in Pediatric Traumatic Brain Injury."**
@@ -11,7 +13,6 @@ This repository contains the code for the VEVAR (Bayesian Varying-Effects Vector
 
 Authors: Yangfan Ren, Nathan Osborne, Christine B. Peterson, Dana M. DeMaster, Linda Ewing-Cobbs, and Marina Vannucci
 
-## Overview
 
 The VEVAR algorithm is implemented in Python and is designed for analyzing brain connectivity networks and the effects of covariates in pediatric traumatic brain injury.
 
